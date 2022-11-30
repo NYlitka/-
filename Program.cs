@@ -1,7 +1,7 @@
 ﻿
 
 
-string [] array1 = new string [5] {"hel", "2366", "for", "sem", "hip-hop"};
+string [] array1 = new string [5] {"Er", "1234", "geb", "nis", "sie-und-er"};
 string [] array2 = new string [array1.Length];
 
 
